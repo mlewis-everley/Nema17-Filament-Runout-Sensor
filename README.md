@@ -3,7 +3,7 @@
 Fully parametric filament runout sensor with integrated bowden coupler for 3D printers,.
 designed to fit on a Nema17 mount.
 
-![Nema 17 Runout Sensor Mount](runout-top.jpg "Nema 17 runout sensor mount")
+![Nema 17 Runout Sensor Mount](runout-top.png "Nema 17 runout sensor mount")
 
 Why would you do this? Well after upgrading my Q5 delta's to use Sailfin extruders,
 I had a big hole on the side of the printer where the extruder motor was mounted.
@@ -33,10 +33,10 @@ and all measurements are located in the spreadsheet called `data`.
 
 # Gallery
 
-![Nema 17 Runout Sensor Mount Assembled](runout-top.jpg "Nema 17 runout sensor mount assembled")
+![Nema 17 Runout Sensor Mount Assembled](runout-top.png "Nema 17 runout sensor mount assembled")
 
 
-![Nema 17 Runout Sensor Mount Bottom](runout-bottom.jpg "Nema 17 runout sensor mount bottom")
+![Nema 17 Runout Sensor Mount Bottom](runout-bottom.png "Nema 17 runout sensor mount bottom")
 
 
-![Nema 17 Runout Sensor Mount Internal](runout-internal.jpg "Nema 17 runout sensor mount internal")
+![Nema 17 Runout Sensor Mount Internal](runout-internal.png "Nema 17 runout sensor mount internal")
